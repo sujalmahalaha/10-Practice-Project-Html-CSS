@@ -1,6 +1,7 @@
-<H1>HTML CSS 10 PRACTICE PROJECT </H1>
-</br>
-###Project that i have build
+# HTML CSS 10 PRACTICE PROJECT
+
+### Project that we are going to build in this complete practice course
+
 - Project 1 - Tribute Website
 - Project 2 - Job Application
 - Project 3 - Parallax Wesbite
