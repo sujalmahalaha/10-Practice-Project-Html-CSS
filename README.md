@@ -1,6 +1,6 @@
 # HTML CSS 10 PRACTICE PROJECT
 
-### Project that we are going to build in this complete practice course
+### Project that i have build
 
 - Project 1 - Tribute Website
 - Project 2 - Job Application
