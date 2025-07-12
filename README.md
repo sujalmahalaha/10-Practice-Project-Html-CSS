@@ -1,4 +1,5 @@
-HTML CSS 10 PRACTICE PROJECT
+<H1>HTML CSS 10 PRACTICE PROJECT </H1>
+</br>
 Project that i have build
 Project 1 - Tribute Website
 Project 2 - Job Application
